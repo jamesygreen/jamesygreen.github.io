@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.navbar{margin-bottom:0px;}
+.row {margin-top:20px;}
+.center {text-align:center;}
+.containerMargin{margin-top:70px;}
+.footer-background {background-color:#222; border-top: #080808 1px solid; color:#fff; padding:20px; bottom:0px; width:100%;}
+
+.see-through {opacity: 0.9;}
